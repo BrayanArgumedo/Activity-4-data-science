@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+
+# Archivos intermedios de Python (se regeneran al ejecutar los scripts)
+*.pkl
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
